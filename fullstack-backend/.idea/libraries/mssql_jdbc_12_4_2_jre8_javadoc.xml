@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-12.4.2.jre8-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sqljdbc_12.4.2.0_fra/sqljdbc_12.4/fra/jars/mssql-jdbc-12.4.2.jre8-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/sqljdbc_12.4.2.0_fra/sqljdbc_12.4/fra/jars/mssql-jdbc-12.4.2.jre8-javadoc.jar!/" recursive="false" />
+  </library>
+</component>
